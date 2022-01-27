@@ -1,1 +1,1 @@
-# WebDevTemplate
+# Quote Generator (ZtoM project)
